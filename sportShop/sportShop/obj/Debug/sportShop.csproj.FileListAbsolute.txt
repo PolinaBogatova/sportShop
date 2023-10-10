@@ -1,0 +1,15 @@
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\bin\Debug\sportShop.exe.config
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\bin\Debug\sportShop.exe
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\bin\Debug\sportShop.pdb
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\obj\Debug\sportShop.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\obj\Debug\MainWindow.g.cs
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\obj\Debug\App.g.cs
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\obj\Debug\sportShop_MarkupCompile.cache
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\obj\Debug\sportShop_MarkupCompile.lref
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\obj\Debug\MainWindow.baml
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\obj\Debug\sportShop.g.resources
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\obj\Debug\sportShop.Properties.Resources.resources
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\obj\Debug\sportShop.csproj.GenerateResource.cache
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\obj\Debug\sportShop.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\obj\Debug\sportShop.exe
+C:\Users\polin\OneDrive\Рабочий стол\demo\sportShop\sportShop\obj\Debug\sportShop.pdb
